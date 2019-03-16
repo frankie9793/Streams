@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Another great stream",
+      "id": 2
+    },
+    {
+      "title": "I CHANGED THIS",
+      "description": "This was made by me!",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me refactor some components",
+      "userId": "106429573865273511186",
+      "id": 6
+    }
+  ]
+}
